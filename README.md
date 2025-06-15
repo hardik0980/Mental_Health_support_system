@@ -5,6 +5,7 @@ This project was developed under a 1-month internship with Elevate Labs in May 2
 
 
 **🚀 How to Run the Project
+
 Clone the repository
 git clone https://github.com/<hardik0980>/mental-health-agent.git
 
