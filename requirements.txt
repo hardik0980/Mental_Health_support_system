@@ -1,10 +1,5 @@
-requirements.txt
 streamlit
 gtts
 numpy
 pandas
 scikit-learn
-pip freeze > requirements.txt
-git add requirements.txt
-git commit -m "Added requirements.txt with gtts for Streamlit deployment"
-git push origin main  # or your correct branch
